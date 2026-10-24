@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Cryptographic Keys & Secrets (DO NOT COMMIT)
+secret.key
+*.key
+salt.bin
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+err.txt
+out.txt
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+[Dd]esktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
